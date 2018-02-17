@@ -1,13 +1,13 @@
 # Logs & stuff. Mkay?
 
-```
+```maven
 <repository>
   <name>jitpack.io</name>
   <url>https://jitpack.io</url>
 </repository>
-```
 
-```
+...
+
 <dependency>
    <groupId>com.github.raxixor</groupId>
    <artifactId>SimpleLog</artifactId>
